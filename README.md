@@ -97,18 +97,21 @@ Model Limitations: Potential data quality issues and model assumptions.
 Conclusion
 The predictive models developed in this project show promise in estimating restaurant ratings accurately. The Random Forest model, in particular, demonstrated excellent performance, making it a valuable tool for restaurant owners and customers.
 
-Future Work
+**Future Work**
 Future improvements could include:
 
-Incorporating additional data sources for more features.
-Exploring other advanced machine learning algorithms.
-Applying the model to real-time rating prediction and monitoring.
-How to Use
-Clone the repository: git clone <repository_url>
-Navigate to the project directory: cd restaurant-rating-prediction
-Install dependencies: pip install -r requirements.txt
-Run the Jupyter notebook: jupyter notebook
-Dependencies
+1. Incorporating additional data sources for more features.
+2. Exploring other advanced machine learning algorithms.
+3. Applying the model to real-time rating prediction and monitoring.
+   
+**How to Use**
+
+1. Clone the repository: git clone <repository_url>
+2. Navigate to the project directory: cd restaurant-rating-prediction
+3. Install dependencies: pip install -r requirements.txt
+4. Run the Jupyter notebook: jupyter notebook
+
+**Dependencies**
 Python 3.7+
 Pandas
 NumPy
